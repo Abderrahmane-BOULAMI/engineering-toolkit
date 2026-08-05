@@ -1,2 +1,3 @@
 My first Git project.
 I am learning version control.
+Git snapshots projects.
