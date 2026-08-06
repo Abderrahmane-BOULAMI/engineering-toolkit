@@ -2,5 +2,5 @@ My first Git project.
 I am learning version control.
 Git snapshots projects.
 This change is useful.
-Engineering Toolkit supports robotics and AI projects.
-Engineering Toolkit focuses on AI and computer vision.
+Engineering Toolkit focuses on robotics, autonomous systems, AI, and computer vision.
+
