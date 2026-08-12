@@ -21,3 +21,7 @@ Engineering Toolkit is a collection of practical engineering projects, utilities
 ## Roadmap
 
 Future work will include ROS2, OpenCV, machine learning, automation, and engineering software tools.
+
+## Contributing
+
+Contributions and engineering improvements are welcome.
