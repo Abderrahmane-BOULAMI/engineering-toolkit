@@ -1,6 +1,6 @@
 # Engineering Toolkit
 
-Engineering Toolkit is a collection of engineering projects, utilities, and experiments focused on robotics, AI, computer vision, Python, and Industry 4.0.
+Engineering Toolkit is a collection of practical engineering projects, utilities, and experiments focused on robotics, AI, computer vision, Python, and Industry 4.0.
 
 ## Areas
 
@@ -21,3 +21,7 @@ Engineering Toolkit is a collection of engineering projects, utilities, and expe
 ## Roadmap
 
 Future work will include ROS2, OpenCV, machine learning, automation, and engineering software tools.
+
+## Contributing
+
+Contributions and engineering improvements are welcome.
